@@ -1,5 +1,7 @@
 PHP File Manager
 =============
+
+[![Join the chat at https://gitter.im/oromedialab/php-file-manager](https://badges.gitter.im/oromedialab/php-file-manager.svg)](https://gitter.im/oromedialab/php-file-manager?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Developed and Maintained by Ibrahim Azhar Armar
 
 Introduction
